@@ -134,7 +134,7 @@
 - 💻 Lab 4 - GSP1051 - [Deploy a Modern Web App connected to a Cloud Spanner Instance](https://www.cloudskillsboost.google/course_templates/643/labs/471749) - 1 hours 30 minutes - Introductory - 1 Credit
 - 💻 Lab 5 - GSP381 - [Create and Manage Cloud Spanner Instances: Challenge Lab](https://www.cloudskillsboost.google/course_templates/643/labs/471750) - 1 hours 30 minutes - Introductory - 1 Credit
 
-## Skill Badge 16: [Use Functions, Formulas, and Charts in Google Sheets](https://www.cloudskillsboost.google/course_templates/776) - 2 hours 45 minutes
+## ---DONE--- Skill Badge 16: [Use Functions, Formulas, and Charts in Google Sheets](https://www.cloudskillsboost.google/course_templates/776) - 2 hours 45 minutes
 
 - 💻 Lab 1 - GSP1061 - [Use Charts in Google Sheets](https://www.cloudskillsboost.google/course_templates/776/labs/423779) - 15 minutes - Intermediate - No cost
 - 💻 Lab 2 - GSP1062 - [Validate Data in Google Sheets](https://www.cloudskillsboost.google/course_templates/776/labs/423780) - 30 minutes - Intermediate - No cost
@@ -433,7 +433,7 @@
 - 💻 Lab 4 - GSP861 - [Migrating MySQL User Data When Running Database Migration Service Jobs](https://www.cloudskillsboost.google/course_templates/629/labs/471764) - 1 hours 30 minutes - Advanced - 7 Credits
 - 💻 Lab 5 - GSP351 - [Migrate MySQL Data to Cloud SQL using Database Migration Service: Challenge Lab](https://www.cloudskillsboost.google/course_templates/629/labs/471765) - 1 hours 30 minutes - Introductory - 1 Credit
 
-## Skill Badge 56: [Share Data Using Google Data Cloud](https://www.cloudskillsboost.google/course_templates/657) - 3 hours 30 minutes
+## ---DONE--- Skill Badge 56: [Share Data Using Google Data Cloud](https://www.cloudskillsboost.google/course_templates/657) - 3 hours 30 minutes
 
 - 💻 Lab 1 - GSP1032 - [Data Publishing on BigQuery for Data Sharing Partners](https://www.cloudskillsboost.google/course_templates/657/labs/462729) - 45 minutes - Introductory - 1 Credit
 - 💻 Lab 2 - GSP1041 - [Data Publishing on BigQuery using Authorized Views for Data Sharing Partners](https://www.cloudskillsboost.google/course_templates/657/labs/462730) - 30 minutes - Introductory - 1 Credit
@@ -676,7 +676,7 @@
 - 💻 Lab 5 - GSP634 - [Identify Horses or Humans with TensorFlow and Vertex AI](https://www.cloudskillsboost.google/course_templates/646/labs/503716) - 1 hours 30 minutes - Intermediate - 5 Credits
 - 💻 Lab 6 - GSP398 - [Classify Images with TensorFlow on Google Cloud: Challenge Lab](https://www.cloudskillsboost.google/course_templates/646/labs/503717) - 1 hours 30 minutes - Intermediate - 5 Credits
 
-## Skill Badge 83: [Get Started with Google Workspace Tools](https://www.cloudskillsboost.google/course_templates/676) - 3 hours 30 minutes
+## ---DONE--- Skill Badge 83: [Get Started with Google Workspace Tools](https://www.cloudskillsboost.google/course_templates/676) - 3 hours 30 minutes
 
 - 💻 Lab 1 - GSP465 - [Gmail: Getting Started](https://www.cloudskillsboost.google/course_templates/676/labs/476311) - 1 hour - Introductory - No cost
 - 💻 Lab 2 - GSP466 - [Google Calendar: Getting Started](https://www.cloudskillsboost.google/course_templates/676/labs/476312) - 30 minutes - Introductory - No cost

@@ -1,10 +1,9 @@
 # Cloud Skills Boost Skill Badge Labs Full List
 
-- 0/44 Skill Badges Completed, 44 Skill Badges to go!
-- 0/182 Labs Completed, 182 Labs to go! (19 Days)
+- 3/36 Skill Badges Completed, 33 Skill Badges to go!
 - The Arcade Trivia September 2024 Labs are considered in the sorting.
 - Skill Badges with the least amout of labs to complete are sorted first.
-- Updated: [2024/9/5](https://www.cloudskillsboost.google/catalog?keywords=&locale=&skill-badge%5B%5D=skill-badge&format%5B%5D=any&language%5B%5D=any)
+- Updated: [2024/9/21](https://www.cloudskillsboost.google/catalog?keywords=&locale=&skill-badge%5B%5D=skill-badge&format%5B%5D=any&language%5B%5D=any)
 
 ## Skill Badge 1: [Analyze BigQuery Data in Connected Sheets](https://www.cloudskillsboost.google/course_templates/632) - 2 hours 45 minutes
 

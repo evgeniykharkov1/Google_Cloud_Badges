@@ -1,6 +1,6 @@
 # Cloud Skills Boost Skill Badge Labs Full List
 
-- 5/36 Skill Badges Completed, 31 Skill Badges to go!
+- 6/36 Skill Badges Completed, 30 Skill Badges to go!
 - The Arcade Trivia September 2024 Labs are considered in the sorting.
 - Skill Badges with the least amout of labs to complete are sorted first.
 - Updated: [2024/9/21](https://www.cloudskillsboost.google/catalog?keywords=&locale=&skill-badge%5B%5D=skill-badge&format%5B%5D=any&language%5B%5D=any)
@@ -206,7 +206,7 @@
 - 💻 Lab 3 - GSP297 - [Google Cloud Storage - Bucket Lock](https://www.cloudskillsboost.google/course_templates/725/labs/461638) - 30 minutes - Introductory - 1 Credit
 - 💻 Lab 4 - ARC111 - [Get Started with Cloud Storage: Challenge Lab](https://www.cloudskillsboost.google/course_templates/725/labs/461639) - 45 minutes - Introductory - 1 Credit
 
-## Skill Badge 25: [Get Started with Looker](https://www.cloudskillsboost.google/course_templates/647) - 2 hours 45 minutes
+##---DONE---Skill Badge 25: [Get Started with Looker](https://www.cloudskillsboost.google/course_templates/647) - 2 hours 45 minutes
 
 - 💻 Lab 1 - GSP136 - [Looker Studio: Qwik Start](https://www.cloudskillsboost.google/course_templates/647/labs/461640) - 30 minutes - Introductory - No cost
 - 💻 Lab 2 - GSP718 - [Looker Data Explorer - Qwik Start](https://www.cloudskillsboost.google/course_templates/647/labs/461641) - 30 minutes - Introductory - No cost

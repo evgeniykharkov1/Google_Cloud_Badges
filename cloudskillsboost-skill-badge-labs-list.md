@@ -113,7 +113,7 @@
   - Level 1: Security and Identity
 - 💻 Lab 4 - ARC134 - [Configure Service Accounts and IAM for Google Cloud: Challenge Lab](https://www.cloudskillsboost.google/course_templates/702/labs/461623) - 45 minutes - Introductory - 1 Credit
 
-## Skill Badge 14: [Prepare Data for Looker Dashboards and Reports](https://www.cloudskillsboost.google/course_templates/628) - 4 hours 45 minutes
+##---DONE---Skill Badge 14: [Prepare Data for Looker Dashboards and Reports](https://www.cloudskillsboost.google/course_templates/628) - 4 hours 45 minutes
 
 - 💻 Lab 1 - GSP718 - [Looker Data Explorer - Qwik Start](https://www.cloudskillsboost.google/course_templates/628/labs/489300) - 30 minutes - Introductory - No cost
 - 💻 Lab 2 - GSP855 - [Filtering and Sorting Data in Looker](https://www.cloudskillsboost.google/course_templates/628/labs/489301) - 1 hour - Introductory - No cost

@@ -157,7 +157,7 @@
 - 🏆 Lab 6 - GSP395 - [Create and Manage AlloyDB Instances: Challenge Lab](https://www.cloudskillsboost.google/course_templates/642/labs/501235) - 1 hours 30 minutes - Introductory - 1 Credit
   - Level 2: Databases
 
-## Skill Badge 18: [Build Real World AI Applications with Gemini and Imagen](https://www.cloudskillsboost.google/course_templates/1076) - 1 hour 15 minutes
+## ---DONE---Skill Badge 18: [Build Real World AI Applications with Gemini and Imagen](https://www.cloudskillsboost.google/course_templates/1076) - 1 hour 15 minutes
 
 - 💻 Lab 1 - bb-ide-genai-001 - [Build an AI Image Recognition app using Gemini on Vertex AI](https://www.cloudskillsboost.google/course_templates/1076/labs/488225) - 15 minutes - Introductory - No cost
 - 💻 Lab 2 - bb-ide-genai-002 - [Build an AI Image Generator app using Imagen on Vertex AI](https://www.cloudskillsboost.google/course_templates/1076/labs/488226) - 15 minutes - Introductory - No cost

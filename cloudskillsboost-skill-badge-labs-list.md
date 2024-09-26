@@ -185,7 +185,7 @@
 - 💻 Lab 3 - GSP095 - [Pub/Sub: Qwik Start - Command Line](https://www.cloudskillsboost.google/course_templates/659/labs/464090) - 30 minutes - Introductory - No cost
 - 💻 Lab 4 - ARC102 - [Store, Process, and Manage Data on Google Cloud - Command Line: Challenge Lab](https://www.cloudskillsboost.google/course_templates/659/labs/464091) - 45 minutes - Introductory - 1 Credit
 
-## Skill Badge 22: [App Building with AppSheet](https://www.cloudskillsboost.google/course_templates/635) - 2 hours 45 minutes
+## ---DONE---Skill Badge 22: [App Building with AppSheet](https://www.cloudskillsboost.google/course_templates/635) - 2 hours 45 minutes
 
 - 💻 Lab 1 - GSP883 - [Google AppSheet: Getting Started](https://www.cloudskillsboost.google/course_templates/635/labs/461576) - 40 minutes - Introductory - No cost
 - 💻 Lab 2 - [Connect and Configure Data for your AppSheet App](https://www.cloudskillsboost.google/course_templates/635/labs/461577) - 40 minutes - undefined - undefined

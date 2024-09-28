@@ -1,6 +1,6 @@
 # Cloud Skills Boost Skill Badge Labs Full List
 
-- 9/36 Skill Badges Completed, 27 Skill Badges to go!
+- 10/36 Skill Badges Completed, 26 Skill Badges to go!
 - The Arcade Trivia September 2024 Labs are considered in the sorting.
 - Skill Badges with the least amount of labs to complete are sorted first.
 - Updated: [2024/9/28](https://www.cloudskillsboost.google/catalog?keywords=&locale=&skill-badge%5B%5D=skill-badge&format%5B%5D=any&language%5B%5D=any)
@@ -25,7 +25,7 @@
 - 💻 Lab 3 - GSP192 - [Dataflow: Qwik Start - Templates](https://www.cloudskillsboost.google/course_templates/752/labs/461558) - 30 minutes - Introductory - 1 Credit
 - 💻 Lab 4 - ARC106 - [Streaming Analytics into BigQuery: Challenge Lab](https://www.cloudskillsboost.google/course_templates/752/labs/461559) - 45 minutes - Introductory - 1 Credit
 
-## Skill Badge 3: [Store, Process, and Manage Data on Google Cloud - Console](https://www.cloudskillsboost.google/course_templates/658) - 2 hours 15 minutes
+## ---DONE---Skill Badge 3: [Store, Process, and Manage Data on Google Cloud - Console](https://www.cloudskillsboost.google/course_templates/658) - 2 hours 15 minutes
 
 - 💻 Lab 1 - GSP073 - [Cloud Storage: Qwik Start - Cloud Console](https://www.cloudskillsboost.google/course_templates/658/labs/464084) - 30 minutes - Introductory - 1 Credit
 - 💻 Lab 2 - GSP081 - [Cloud Functions: Qwik Start - Console](https://www.cloudskillsboost.google/course_templates/658/labs/464085) - 20 minutes - Introductory - 1 Credit

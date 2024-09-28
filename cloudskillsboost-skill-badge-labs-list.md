@@ -1,9 +1,9 @@
 # Cloud Skills Boost Skill Badge Labs Full List
 
-- 7/36 Skill Badges Completed, 29 Skill Badges to go!
+- 9/36 Skill Badges Completed, 27 Skill Badges to go!
 - The Arcade Trivia September 2024 Labs are considered in the sorting.
 - Skill Badges with the least amount of labs to complete are sorted first.
-- Updated: [2024/9/24](https://www.cloudskillsboost.google/catalog?keywords=&locale=&skill-badge%5B%5D=skill-badge&format%5B%5D=any&language%5B%5D=any)
+- Updated: [2024/9/28](https://www.cloudskillsboost.google/catalog?keywords=&locale=&skill-badge%5B%5D=skill-badge&format%5B%5D=any&language%5B%5D=any)
 
 ## ---DONE---Skill Badge 1: [Analyze BigQuery Data in Connected Sheets](https://www.cloudskillsboost.google/course_templates/632) - 2 hours 45 minutes
 
@@ -164,7 +164,7 @@
 - 💻 Lab 3 - bb-ide-genai-003 - [Build an application to send Chat Prompts using the Gemini model](https://www.cloudskillsboost.google/course_templates/1076/labs/488227) - 15 minutes - Introductory - No cost
 - 💻 Lab 4 - bb-ide-genai-004 - [Build a Multi-Modal GenAI Application: Challenge Lab](https://www.cloudskillsboost.google/course_templates/1076/labs/488228) - 20 minutes - Introductory - No cost
 
-## Skill Badge 19: [App Engine: 3 Ways](https://www.cloudskillsboost.google/course_templates/671) - 2 hours 15 minutes
+##  ---DONE---Skill Badge 19: [App Engine: 3 Ways](https://www.cloudskillsboost.google/course_templates/671) - 2 hours 15 minutes
 
 - 💻 Lab 1 - GSP067 - [App Engine: Qwik Start - Python](https://www.cloudskillsboost.google/course_templates/671/labs/461532) - 20 minutes - Introductory - 1 Credit
 - 💻 Lab 2 - GSP070 - [App Engine: Qwik Start - Go](https://www.cloudskillsboost.google/course_templates/671/labs/461533) - 20 minutes - Introductory - 1 Credit
@@ -206,7 +206,7 @@
 - 💻 Lab 3 - GSP297 - [Google Cloud Storage - Bucket Lock](https://www.cloudskillsboost.google/course_templates/725/labs/461638) - 30 minutes - Introductory - 1 Credit
 - 💻 Lab 4 - ARC111 - [Get Started with Cloud Storage: Challenge Lab](https://www.cloudskillsboost.google/course_templates/725/labs/461639) - 45 minutes - Introductory - 1 Credit
 
-##---DONE---Skill Badge 25: [Get Started with Looker](https://www.cloudskillsboost.google/course_templates/647) - 2 hours 45 minutes
+## ---DONE---Skill Badge 25: [Get Started with Looker](https://www.cloudskillsboost.google/course_templates/647) - 2 hours 45 minutes
 
 - 💻 Lab 1 - GSP136 - [Looker Studio: Qwik Start](https://www.cloudskillsboost.google/course_templates/647/labs/461640) - 30 minutes - Introductory - No cost
 - 💻 Lab 2 - GSP718 - [Looker Data Explorer - Qwik Start](https://www.cloudskillsboost.google/course_templates/647/labs/461641) - 30 minutes - Introductory - No cost

@@ -1,6 +1,6 @@
 # Cloud Skills Boost Skill Badge Labs Full List
 
-- 10/36 Skill Badges Completed, 26 Skill Badges to go!
+- 12/36 Skill Badges Completed, 24 Skill Badges to go!
 - The Arcade Trivia September 2024 Labs are considered in the sorting.
 - Skill Badges with the least amount of labs to complete are sorted first.
 - Updated: [2024/9/28](https://www.cloudskillsboost.google/catalog?keywords=&locale=&skill-badge%5B%5D=skill-badge&format%5B%5D=any&language%5B%5D=any)
@@ -49,7 +49,7 @@
 - 💻 Lab 3 - GSP038 - [Entity and Sentiment Analysis with the Natural Language API](https://www.cloudskillsboost.google/course_templates/634/labs/461614) - 45 minutes - Intermediate - 5 Credits
 - 💻 Lab 4 - ARC114 - [Analyze Speech & Language with Google APIs: Challenge Lab](https://www.cloudskillsboost.google/course_templates/634/labs/461615) - 45 minutes - Introductory - 1 Credit
 
-## Skill Badge 6: [Create a Secure Data Lake on Cloud Storage](https://www.cloudskillsboost.google/course_templates/704) - 2 hours 45 minutes
+## ---DONE---Skill Badge 6: [Create a Secure Data Lake on Cloud Storage](https://www.cloudskillsboost.google/course_templates/704) - 2 hours 45 minutes
 
 - 💻 Lab 1 - GSP064 - [Cloud IAM: Qwik Start](https://www.cloudskillsboost.google/course_templates/704/labs/461624) - 45 minutes - Introductory - 1 Credit
 - 💻 Lab 2 - GSP073 - [Cloud Storage: Qwik Start - Cloud Console](https://www.cloudskillsboost.google/course_templates/704/labs/461625) - 30 minutes - Introductory - 1 Credit

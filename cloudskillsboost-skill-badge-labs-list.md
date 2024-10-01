@@ -1,6 +1,6 @@
 # Cloud Skills Boost Skill Badge Labs Full List
 
-- 12/36 Skill Badges Completed, 24 Skill Badges to go!
+- 13/36 Skill Badges Completed, 23 Skill Badges to go!
 - The Arcade Trivia September 2024 Labs are considered in the sorting.
 - Skill Badges with the least amount of labs to complete are sorted first.
 - Updated: [2024/9/28](https://www.cloudskillsboost.google/catalog?keywords=&locale=&skill-badge%5B%5D=skill-badge&format%5B%5D=any&language%5B%5D=any)
@@ -65,7 +65,7 @@
 - 💻 Lab 3 - GSP081 - [Cloud Functions: Qwik Start - Console](https://www.cloudskillsboost.google/course_templates/662/labs/461586) - 20 minutes - Introductory - 1 Credit
 - 💻 Lab 4 - ARC109 - [Getting Started with API Gateway: Challenge Lab](https://www.cloudskillsboost.google/course_templates/662/labs/461587) - 45 minutes - Introductory - 1 Credit
 
-## Skill Badge 8: [Get Started with Dataplex](https://www.cloudskillsboost.google/course_templates/726) - 2 hours 45 minutes
+## ---DONE---Skill Badge 8: [Get Started with Dataplex](https://www.cloudskillsboost.google/course_templates/726) - 2 hours 45 minutes
 
 - 💻 Lab 1 - GSP1143 - [Dataplex: Qwik Start - Console](https://www.cloudskillsboost.google/course_templates/726/labs/461568) - 30 minutes - Introductory - 1 Credit
 - 💻 Lab 2 - GSP1144 - [Dataplex: Qwik Start - Command Line](https://www.cloudskillsboost.google/course_templates/726/labs/461569) - 30 minutes - Introductory - 1 Credit
